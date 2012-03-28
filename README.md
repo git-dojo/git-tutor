@@ -23,7 +23,7 @@ Git道場では分散バージョン管理ツールとして広く利用され�
 
 チューターになりたい人はgit リポジトリ（git://github.com/git-dojo/git-tutor.git）を
 git cloneして、自分の名前の追加してコミット、コミットした内容を git format-patch で
-出力し、 git send-email コマンドで iwamatsu.git@g... まで送ってください。
+出力し、 git send-email コマンドで iwamatsu.git _at_ gmail.com まで送ってください。
 パッチは送信時のリモートリポジトリとコンフリクトしないようにしてください。
 応募者多数の場合、Git 道場実行委員会で応募者の中からチューターを選ばせて頂きます。
 
